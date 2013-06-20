@@ -6,4 +6,5 @@ Dates: 31/03/2011-08/07/2011
 Hashtags: 
 #nolesvotes,#democraciarealya,#spanishrevolution,#acampadasol,#15m,#yeswecamp,#tomalacalle
 
-Data captured through topsy.com using 
+Data captured through topsy.com using provided getTopsyTwitter.py in 
+https://github.com/datanalysis15m/software/tree/master/twitterDataGet  (No dependencies. Tested on python 2.6 & 2.7)
